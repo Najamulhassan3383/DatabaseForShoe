@@ -1,6 +1,12 @@
 Shoe Store Database
 Welcome to the Shoe Store Database project! This database was created to store and manage the data for a retail shoe store. The database is built using SQL Server and allows the store to keep track of orders, products, customers, employees, and suppliers.
 
+File information:
+  zip file contains the project
+  shoe_database contains the code for creating database in sql server
+  .mdf and log files are created using sql server 
+  operations file contains the code for all the views, functions, stored procedures and triggers
+
 Features
 
 Store order details, including customer information and purchased products
